@@ -3,7 +3,7 @@ This is a small program predicting stock prices of small data using standard ML 
 
 **BUILD**
 
-To build and run the file, you need to install the [*Anaconda Navigator*](https://www.anaconda.com/download/)
+To build and run the file, you need to install the [*Anaconda Navigator*](https://www.anaconda.com/download/).
 Then download the *reli.csv* file and paste it in a folder you'd like.
 Run the *stock_pred.py* from the same folder as *reli.csv* using *SPYDER* which comes pre-installed with *Anaconda Navigator*.
 
