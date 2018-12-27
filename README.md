@@ -8,6 +8,7 @@ Then download the *reli.csv* file and paste it in a folder you'd like.
 Run the *stock_pred.py* from the same folder as *reli.csv* using *SPYDER* which comes pre-installed with *Anaconda Navigator*.
 
 **RUN**
+
 Click the run button in the *SPYDER* to run the project. If you want to predict for a specific date, you can predict it by giving input.
 
 Note:"DON'T input ***DATE*** directly. As we have converted date to integer(read *StockPrediction.docx* and comments). Add the integer accordingly to the last updated date in *reli.csv* and then input the corresponding integer.
